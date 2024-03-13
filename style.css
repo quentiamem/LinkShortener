@@ -1,0 +1,10 @@
+input#link {
+	height: 30px;
+	width: 300px;
+}
+.result {
+	color: red;
+}
+.result.success {
+	color: green;
+}
