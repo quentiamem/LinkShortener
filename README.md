@@ -13,7 +13,7 @@
 ## Setting up on your server
 1. Download the project and extract files, or use `git clone`
 2. Set up database settings in `/interface/settings.php`
-3. If the project is **not** located at the **document root**, you'll need to specify path in the `/lib/ShortLink/class.php` on line 1 and `/lib/RouteManager/RouteManager.php` on line 1.
+3. If the project is **not** located at the **document root**, you'll need to specify path in the `/lib/ShortLink/class.php` on line 1 and `/lib/RouteEngine/RouteManager.php` on line 1.
 
 **Important**: your Apache has to have mod_rewrite module.
 
